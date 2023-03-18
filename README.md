@@ -2,7 +2,7 @@
 
 ## Preview
 
-| ![][one] | ![][two] | ![][three] | ![][four] |
+![][one] ![][two] ![][three] ![][four]
 
 Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
 
